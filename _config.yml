@@ -11,8 +11,8 @@ markdown: kramdown
 primarylinks:
  - title: GitHub
    url: https://github.com/pl-misuw
- - title: LinkedIn
-   url: https://www.linkedin.com/in/michał-s-aa43a89b/
+ - title: 
+   url: 
 
 #Any buzzword skills you want to include
 skills:
@@ -82,12 +82,12 @@ contact:
    address2:
 
 intro: |
-  <p>I am an engineer with 5 years’ experience working in technology. I have primarily worked on the Windows-related web stack, but have worked across a broad range of technologies thereon: Groovy, Linux, Docker and most recently Openshift and Kubernetes; as well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of web-related skills (Graphic design, coding, services, workflows, AWS integrations).</p>
+  <p>Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO).</p>
 
-  <p>I enjoy working with interesting products, with understanding of business-related topics, management and emphasis on DevOps culture. Due to my work with consultancy agencies I have a strong understanding of processes, engineering principals and communication with clients and stakeholders.</p>
+  <p>I enjoy working with new technologies, like meeting interesting people and I'm very passionate about all kinds of games (computer, console, mobile and tabletop).</p>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-    <strong>Cloud platforms</strong>: I have primarily used AWS for running production apps on the cloud. I have experience setting up, configuring and running applications using a range of AWS offerings, including EC2, RDS, S3, Cogito, Lambda.<br/><br/>
-    <strong>Web Development</strong>: Through building web applications, I have also worked with various client side technology, having used jQuery, Bootstrap, LESS, SASS.<br/><br/>
-    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
+    <strong>Service</strong>: I have primarily used various of testing tools, console command and benchamrks for testing new and used computers both desktop and laptops.<br/><br/>
+    <strong>Game Test</strong>: I have some basic knowledge of game-testing, I've recently signed up to participate in couple game tests using gametester.gg by Lionbridge Games Studios<br/><br/>
+

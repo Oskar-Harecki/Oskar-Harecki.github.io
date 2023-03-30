@@ -1,7 +1,7 @@
 # Site settings
-title: Michał Suwara
-role: DevOps Engineer
-name: Michał Suwara
+title: CV
+role: Service Technician
+name: Oskar Haręcki
 
 # Build settings
 markdown: kramdown
@@ -17,80 +17,68 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - name: CI/CD understanding
-   percent: 85%
+   percent: 25%
  - name: IT services
    percent: 75%
  - name: People skills
-   percent: 100%
- - name: AWS EC2, and Cloud Services
-   percent: 75%
+   percent: 65%
+ - name: Computer Service
+   percent: 85%
  - name: Linux System Administration
-   percent: 40%
+   percent: 25%
  - name:  Windows Core Administration
-   percent: 80%
+   percent: 25%
 
 #Area of Expertise
 expertise:
-  - name: Professionally drive
-    description: Synergistically strategize customer directed resources rather than principle.
+  - name: Focussed
+    description: Ability to concentrate on a single point or task.
   - name: Goal Oriented
     description: Willingly and successfully try to do what is required.
   - name: Team Player
     description: Working great with a group to solve problems and find solutions. 
   - name: Problem Solver
-    description: Considers problems as a challenge and enjoys finding creative yet appropriate solutions.
+    description: Know how to identify a problem, determine the root of the problem, find multiple solutions and choose the best outcome.
 
 #Work experience is required
 roles:
- - title: DevOps Engineer
-   start: 2018
+ - title: Service Technician
+   start: 2022
    end: Ongoing
-   employer: Nordea
-   description: Work on Openshift clusters on Linux (RHEL), IAaC, work on infrastructure on local machines using NixOS, work with Scala and Big-data related technological stacks.
-   place: Gdynia, Poland
- - title: DevOps Engineer
-   start: 2017
-   end: 2018
-   employer: Accenture
-   description: Further work on CI/CD on Windows, setup of Docker infrastructure on local machines, automation related to the infrastructure setup on Windows.
-   place: Kraków, Poland
- - title: DevOps Engineer
-   start: 2016
-   end: 2017
-   employer: ZeroChaos (Contract for ABB)
-   description: Help with maintanance, monitoring of the web applications running on Windows and AWS stack, CI/CD with Jenkins on Windows.
-   place: Kraków, Poland
- - title: Application Specialist
-   start: 2014
-   end: 2016
-   employer: ZeroChaos (Contract for ABB)
-   description: 2nd and 3rd line support for web applications, help with invastigations and trouble-shooting the web applications. 
-   place: Kraków, Poland
- - title: IT Support
-   start: 2013
-   end: 2014
-   employer: Eurocent S.A.
-   description: Working on a range of IT specific and Administration related things.
-   place: Kraków, Poland
+   employer: Ivy Technnology
+   description: Repairing and testing hardware/software using PCDR, PowerShell and various benchamrks.
+   place: Bydgoszcz, Poland
+ - title: Instructor
+   start: 2020
+   end: 2022
+   employer: McDonald’s Corporation
+   description: Training new employees and preparation of training materials.
+   place: Bydgoszcz, Poland
+ - title: IT Consultant
+   start: 2019
+   end: 2020
+   employer: Media System
+   description: Helping businesses and organizations manage their technology use and keeping them up to date.
+   place: Bydgoszcz, Poland
 
 #Education is required
 education:
- - title: Penis
-   start: 2008
-   end: 2012
-   subject: Applied Informatics
-   school: AGH University of Science and Technology
+ - title: School
+   start: 2014
+   end: 2017
+   subject: Photography and Graphic Designer
+   school: Vocational school
 
 #List of interesting Github repo/projects to include - optional
 github:
-  - pl-misuw/pl-misuw.github.io
+  - https://github.com/Oskar-Harecki/Oskar-Harecki.github.io
 
 #Contact flair is optional
 contact:
-   website: https://pl-misuw.github.io
-   phone:
-   email:
-   address1:
+   website: https://github.com/Oskar-Harecki/Oskar-Harecki.github.io
+   phone: +48 880 987 385
+   email: harecki.oskar.97@gmail.com
+   address1: Bydgoszcz
    address2:
 
 intro: |
